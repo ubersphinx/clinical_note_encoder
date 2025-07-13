@@ -1,0 +1,41 @@
+Note,ICD_Codes
+"CC: Altered mental status.
+HPI: 27-year-old male found unresponsive at home by roommate, empty bottle of alprazolam (approx. 30 tablets missing). No known prior overdose history. Last seen normal ~10 hours prior.
+PE: Somnolent, responds to painful stimuli only. Respirations 8/min, shallow. Pupils normal.
+A/P: Likely benzodiazepine overdose. Monitor respiratory status, consider flumazenil only if severe respiratory compromise and no seizure risk.","T42.4X1A, R40.20"
+"CC: Ingestion of unknown pills.
+HPI: 35-year-old female with history of depression, found with multiple empty acetaminophen bottles, denies co-ingestions. Estimated ingestion ~4 hours prior, unsure of exact amount.
+PE: Awake but anxious, mild RUQ tenderness. Vitals stable.
+A/P: Suspected acetaminophen overdose. Obtain APAP levels, initiate N-acetylcysteine as per protocol.","T39.1X1A, Z91.5"
+"CC: Seizure.
+HPI: 19-year-old male brought in after a witnessed tonic-clonic seizure at a party. Friend reports he took ""ecstasy"" pills and was drinking heavily.
+PE: Agitated, tachycardic, BP 160/90, hyperthermia (39.5 °C).
+A/P: Suspected MDMA intoxication with possible serotonin syndrome. Aggressive cooling, IV fluids, benzodiazepines for agitation and seizures.","T43.621A, R56.9"
+"CC: Confusion and vomiting.
+HPI: 56-year-old male, chronic alcohol use, found confused and vomiting after ingesting ""homemade moonshine."" Family reports recent vision problems.
+PE: Confused, blurred vision, tachypnea, metabolic acidosis suspected.
+A/P: Suspected methanol poisoning. Initiate fomepizole, correct acidosis, consult nephrology for possible dialysis.","T51.1X1A, F10.20"
+"CC: Nausea and muscle weakness.
+HPI: 44-year-old female gardener, reports nausea, muscle weakness, and profuse sweating after spraying insecticide without protective gear.
+PE: Bradycardia, miosis, excessive salivation.
+A/P: Suspected organophosphate poisoning. Atropine and pralidoxime initiated.",T60.0X1A
+"CC: Severe headache and confusion.
+HPI: 30-year-old male brought in from warehouse, possible carbon monoxide exposure from faulty heater. Complains of dizziness, nausea, headache, and confusion.
+PE: Cherry-red lips noted, oxygen saturation low despite supplemental oxygen.
+A/P: Suspected CO poisoning. 100% oxygen via non-rebreather, consider hyperbaric oxygen therapy.",T58.X1A
+"CC: Vomiting and abdominal pain.
+HPI: 22-year-old college student ingested wild mushrooms during camping trip, developed severe GI symptoms 6 hours later.
+PE: Hypotensive, dehydrated, tender abdomen.
+A/P: Suspected amatoxin-containing mushroom poisoning. Aggressive IV fluids, liver function monitoring, consider silibinin therapy.",T62.0X1A
+"CC: Lethargy and hypoglycemia.
+HPI: 68-year-old diabetic female accidentally took double dose of insulin this morning, found diaphoretic and confused at home.
+PE: Diaphoretic, responsive to verbal stimuli, glucose 35 mg/dL.
+A/P: Severe hypoglycemia secondary to insulin overdose. IV dextrose, monitor glucose, consider glucagon if no IV access.",T38.3X1A
+"CC: Burning mouth and throat pain.
+HPI: 4-year-old male accidentally ingested bleach at home, mother witnessed event and brought immediately.
+PE: Crying, drooling, erythema of oral mucosa.
+A/P: Caustic ingestion. Avoid inducing emesis, early endoscopy consultation, airway monitoring.",T54.0X1A
+"CC: Severe agitation and paranoia.
+HPI: 25-year-old male brought by police after erratic behavior, reportedly used ""bath salts"" (synthetic cathinones).
+PE: Extremely agitated, hypertensive, tachycardic, hyperthermic.
+A/P: Suspected synthetic cathinone intoxication. IV fluids, aggressive sedation with benzodiazepines, monitor for rhabdomyolysis.",T43.64XA

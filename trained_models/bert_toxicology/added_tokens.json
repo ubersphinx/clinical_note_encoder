@@ -1,0 +1,9 @@
+{
+  "[DOSE]": 29000,
+  "[ROUTE]": 29001,
+  "[SUBSTANCE]": 28996,
+  "[SYMPTOM]": 28997,
+  "[TIMELINE]": 29002,
+  "[TREATMENT]": 28998,
+  "[VITAL]": 28999
+}
